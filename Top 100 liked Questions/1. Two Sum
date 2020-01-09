@@ -9,28 +9,25 @@ Given nums = [2, 7, 11, 15], target = 9,
 Because nums[0] + nums[1] = 2 + 7 = 9,
 return [0, 1].
 
-```
 
-class Solution {
-public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        unordered_map<int,int> myhash;
-        vector<int> output;
-        
-        for (int i=0; i<nums.size(); i++){
-            myhash[nums[i]]=i;
-        }
-        
-        for (int i=0; i<nums.size();i++){
-            int temp=target-nums[i];
-            if ((myhash.find(temp)!=myhash.end())&&myhash[temp]!=i){
-                output.push_back(i);
-                output.push_back(myhash[temp]);
-                break;
+    class Solution {
+    public:
+        vector<int> twoSum(vector<int>& nums, int target) {
+            unordered_map<int,int> myhash;
+            vector<int> output;
+
+            for (int i=0; i<nums.size(); i++){
+                myhash[nums[i]]=i;
             }
-        }
-        return output;
-    }
-};
 
-```
+            for (int i=0; i<nums.size();i++){
+                int temp=target-nums[i];
+                if ((myhash.find(temp)!=myhash.end())&&myhash[temp]!=i){
+                    output.push_back(i);
+                    output.push_back(myhash[temp]);
+                    break;
+                }
+            }
+            return output;
+        }
+    };
