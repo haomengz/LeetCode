@@ -7,5 +7,5 @@
 
 [p1]:https://leetcode.com/problems/two-sum/
 [p1sol]:./Top%20100%20liked%20Questions/1.%20Two%20Sum.md
-[p1]:https://leetcode.com/problems/symmetric-tree/
-[p1sol]:./Top%20100%20liked%20Questions/101.%20Symmetric%20Tree.md
+[p101]:https://leetcode.com/problems/symmetric-tree/
+[p101sol]:./Top%20100%20liked%20Questions/101.%20Symmetric%20Tree.md
