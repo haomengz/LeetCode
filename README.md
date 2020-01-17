@@ -6,6 +6,7 @@
 |20|[Valid Parentheses][p20]|[C++][p20sol]|Easy
 |21|[Merge Two Sorted Lists][p21]|[C++][p21sol]|Easy
 |53|[Maximum Subarray][p53]|[C++][p53sol]|Easy
+|70|[Climbing Stairs][p70]|[C++][p70sol]|Easy
 |101|[Symmetric Tree][p101]|[C++][p101sol]|Easy
 |104|[Maximum Depth of Binary Tree][p104]|[C++][p104sol]|Easy
 |136|[Single Number][p136]|[C++][p136sol]|Easy
@@ -19,6 +20,8 @@
 [p21sol]:./Top%20100%20liked%20Questions/21.%20Merge%20Two%20Sorted%20Lists.md
 [p53]:https://leetcode.com/problems/maximum-subarray/
 [p53sol]:./Top%20100%20liked%20Questions/Top%20100%20liked%20Questions/53.%20Maximum%20Subarray.md
+[p70]:https://leetcode.com/problems/climbing-stairs/
+[p70sol]:./Top%20100%20liked%20Questions/Top%20100%20liked%20Questions/70.%20Climbing%20Stairs.md
 [p101]:https://leetcode.com/problems/symmetric-tree/
 [p101sol]:./Top%20100%20liked%20Questions/101.%20Symmetric%20Tree.md
 [p104]:https://leetcode.com/problems/maximum-depth-of-binary-tree/
