@@ -12,6 +12,9 @@
 |136|[Single Number][p136]|[C++][p136sol]|Easy
 |198|[House Robber][p198]|[C++][p198sol]|Easy
 |543|[Diameter of Binary Tree][p543]|[C++][p543sol]|Easy
+|1323|[Maximum 69 Number][p1323]|[C++][p1323sol]|Easy
+|1324|[Print Words Vertically][p1324]|[C++][p1324sol]|Medium
+
 
 [p1]:https://leetcode.com/problems/two-sum/
 [p1sol]:./Top%20100%20liked%20Questions/1.%20Two%20Sum.md
@@ -33,4 +36,8 @@
 [p198sol]:./Top%20100%20liked%20Questions/198.%20House%20Robber.md
 [p543]:https://leetcode.com/problems/diameter-of-binary-tree/
 [p543sol]:./Top%20100%20liked%20Questions/543.%20Diameter%20of%20Binary%20Tree.md
+[p1323]:https://leetcode.com/contest/weekly-contest-172/problems/maximum-69-number/
+[p1323sol]:./Contest/Weekly%20Contest%20172/1323.%20Maximum%2069%20Number.md
+[p1324]:https://leetcode.com/contest/weekly-contest-172/problems/print-words-vertically/
+[p1324sol]:./Contest/Weekly%20Contest%20172/1324.%20Print%20Words%20Vertically.md
 
