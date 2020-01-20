@@ -10,6 +10,7 @@
 |101|[Symmetric Tree][p101]|[C++][p101sol]|Easy
 |104|[Maximum Depth of Binary Tree][p104]|[C++][p104sol]|Easy
 |136|[Single Number][p136]|[C++][p136sol]|Easy
+|169|[Majority Element][p169]|[C++][p169sol]|Easy
 |198|[House Robber][p198]|[C++][p198sol]|Easy
 |543|[Diameter of Binary Tree][p543]|[C++][p543sol]|Easy
 |1323|[Maximum 69 Number][p1323]|[C++][p1323sol]|Easy
@@ -32,6 +33,8 @@
 [p104sol]:./Top%20100%20liked%20Questions/104.%20Maximum%20Depth%20of%20Binary%20Tree.md
 [p136]:https://leetcode.com/problems/single-number/
 [p136sol]:./Top%20100%20liked%20Questions/136.%20Single%20Number.md
+[p169]:https://leetcode.com/problems/majority-element/
+[p169sol]:./Top%20100%20liked%20Questions/169.%20Majority%20Element.md
 [p198]:https://leetcode.com/problems/house-robber/
 [p198sol]:./Top%20100%20liked%20Questions/198.%20House%20Robber.md
 [p543]:https://leetcode.com/problems/diameter-of-binary-tree/
