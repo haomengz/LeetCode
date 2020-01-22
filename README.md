@@ -5,6 +5,7 @@
 |1|[Two Sum][p1]|[C++][p1sol]|Easy
 |20|[Valid Parentheses][p20]|[C++][p20sol]|Easy
 |21|[Merge Two Sorted Lists][p21]|[C++][p21sol]|Easy
+|27|[Remove Element][p27]|[C++][p27sol]|Easy
 |53|[Maximum Subarray][p53]|[C++][p53sol]|Easy
 |70|[Climbing Stairs][p70]|[C++][p70sol]|Easy
 |101|[Symmetric Tree][p101]|[C++][p101sol]|Easy
@@ -23,6 +24,8 @@
 [p20sol]:./Top%20100%20liked%20Questions/20.%20Valid%20Parentheses.md
 [p21]:https://leetcode.com/problems/merge-two-sorted-lists/
 [p21sol]:./Top%20100%20liked%20Questions/21.%20Merge%20Two%20Sorted%20Lists.md
+[p27]:https://leetcode.com/problems/remove-element/
+[p27sol]:./Top%20100%20liked%20Questions/27.%20Remove%20Element.md
 [p53]:https://leetcode.com/problems/maximum-subarray/
 [p53sol]:./Top%20100%20liked%20Questions/Top%20100%20liked%20Questions/53.%20Maximum%20Subarray.md
 [p70]:https://leetcode.com/problems/climbing-stairs/
