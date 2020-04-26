@@ -20,6 +20,8 @@
 
 [p1]:https://leetcode.com/problems/two-sum/
 [p1sol]:./Problems/1.%20Two%20Sum.md
+[p2]:https://leetcode.com/problems/add-two-numbers/
+[p2sol]:./Problems/2.%20Add%20Two%20Numbers.md
 [p20]:https://leetcode.com/problems/valid-parentheses/
 [p20sol]:./Problems/20.%20Valid%20Parentheses.md
 [p21]:https://leetcode.com/problems/merge-two-sorted-lists/
