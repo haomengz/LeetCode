@@ -27,9 +27,9 @@
 [p27]:https://leetcode.com/problems/remove-element/
 [p27sol]:./Problems/27.%20Remove%20Element.md
 [p53]:https://leetcode.com/problems/maximum-subarray/
-[p53sol]:./Problems/Problems/53.%20Maximum%20Subarray.md
+[p53sol]:./Problems/53.%20Maximum%20Subarray.md
 [p70]:https://leetcode.com/problems/climbing-stairs/
-[p70sol]:./Problems/Problems/70.%20Climbing%20Stairs.md
+[p70sol]:./Problems/70.%20Climbing%20Stairs.md
 [p101]:https://leetcode.com/problems/symmetric-tree/
 [p101sol]:./Problems/101.%20Symmetric%20Tree.md
 [p104]:https://leetcode.com/problems/maximum-depth-of-binary-tree/
