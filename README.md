@@ -3,6 +3,7 @@
 | # | Problem | Solution | Difficulty|
 |---| ------- | -------- |-------|
 |1|[Two Sum][p1]|[C++][p1sol]|Easy
+|2|[Add Two Numbers][p2]|[C++][p2sol]|Medium
 |20|[Valid Parentheses][p20]|[C++][p20sol]|Easy
 |21|[Merge Two Sorted Lists][p21]|[C++][p21sol]|Easy
 |27|[Remove Element][p27]|[C++][p27sol]|Easy
